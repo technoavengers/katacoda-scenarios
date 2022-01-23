@@ -1,6 +1,6 @@
 {
-	"title": "Docker and Makefiles",
-	"description": "Learn how to use Makefiles to manage Docker image creation",
+	"title": "Kubernetes Pods",
+	"description": "Learn how to work with Kubernetes Pods",
 	"details": {
 		"steps": [{
 			"title": "Step 1 - Dockerfile",
